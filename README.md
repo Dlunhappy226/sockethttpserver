@@ -2,6 +2,6 @@
 
 ##Installation
 
-'''bash
+```bash
 pip install sockethttpserver
-'''
+```
